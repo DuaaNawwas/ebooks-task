@@ -1,0 +1,14 @@
+{
+    "eBooks": [ 
+                           { "language": "Pascal", "edition": "third", "price": 20 },
+                           { "language": "Python", "edition": "four", "price": 30 },
+                           { "language": "SQL", "edition": "second", "price": 25 },
+                           { "language": "Java", "edition": "first", "price": 15 },
+                           { "language": "Java", "edition": "second", "price": 15 },
+                           { "language": "JavaScript", "edition": "third", "price": 30 },
+                           { "language": "Php", "edition": "second", "price": 35 },
+                           { "language": "laravel", "edition": "first", "price": 20 }, 
+                           { "language": "React", "edition": "second", "price": 26 },
+                           { "language": "React", "edition": "first", "price": 10 } 
+                        ]
+}
